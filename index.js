@@ -1,6 +1,9 @@
 holiday = 'Birthday'
-name = 'Katie'
+holiday.toEqual === holday
+name ='Katie'
+name.toEqual === name
 days = 20
+days.toEqual === 30
 
 
 function happyHolidays() {
