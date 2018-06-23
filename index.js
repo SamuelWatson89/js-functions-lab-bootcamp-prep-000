@@ -1,9 +1,3 @@
-holiday = 'Birthday'
-holiday.toEqual === holday
-name ='Katie'
-name.toEqual === name
-days = 20
-days.toEqual === 30
 
 
 function happyHolidays() {
@@ -11,6 +5,7 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(name) {
+ name = katie
   console.log (`Happy holidays, ${name}!`)
   return (`Happy holidays, ${name}!`)
 }
